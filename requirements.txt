@@ -1,3 +1,4 @@
 natasha==0.10.0
 yargy==0.11.0
-requests==2.24.0
+asyncio==3.9.6
+aiohttp==3.7.4
